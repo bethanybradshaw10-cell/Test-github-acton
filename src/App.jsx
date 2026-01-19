@@ -23,7 +23,7 @@ function App() {
         </div>
         
         <h1>Vite + React</h1>
-        <p className="subtitle">高性能前端构建测试页</p>
+        <p className="subtitle">前端构建测试页</p>
         
         <div className="interaction-area">
           <button onClick={() => setCount((count) => count + 1)}>
